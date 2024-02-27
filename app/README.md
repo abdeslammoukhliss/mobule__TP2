@@ -2,4 +2,4 @@
 
 ### 1. Demo
 
-![My App Screenshot](./Screenshot_20240227_173043.png)
+![img_1.png](img_1.png)
